@@ -90,8 +90,15 @@ alerts.log
 This project simulates a real-world monitoring system used in DevOps environments to track system performance and detect abnormal resource usage.
 
 ---
-Screenshots:
+## Screenshots
 
+**cron.log**
+
+![Application Running](https://github.com/VSUBASHRAJ/System-Monitor/blob/main/Screenshots/cronlog.png)
+
+## system.log
+
+![Application Running](https://github.com/VSUBASHRAJ/System-Monitor/blob/main/Screenshots/srg.png)
 
 ## Key Learnings
 
