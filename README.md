@@ -46,7 +46,7 @@ system-monitor/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/system-monitor.git
+git clone https://github.com/VSUBASHRAJ/System-Monitor.git
 cd system-monitor
 
 ---
